@@ -1,3 +1,3 @@
 # pratica_git_flow
 
-"Esta es la rama features"
+"Esta es la rama development"
